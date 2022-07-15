@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+    <string-array name="items">
+        <item>Select Language</item>
+        <item>Arabic</item>
+        <item>Danish</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Swedish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Chinese</item>
+        <item>Malay</item>
+        <item>Norwegian</item>
+        <item>Vietnamese</item>
+        <item>Indonesian</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Greek</item>
+        <item>Hindi</item>
+        <item>Tagalog</item>
+        <item>Serbian</item>
+        <item>Romanian</item>
+        <item>Traditional Chinese</item>
+        <item>Burmese</item>
+        <item>Tamil</item>
+        <item>Hungarian</item>
+        <item>Dutch</item>
+        <item>Persian</item>
+        <item>Slovak</item>
+        <item>Estonian</item>
+        <item>Latvian</item>
+        <item>Central Khmer</item>
+
+    </string-array>
+</resources>
